@@ -1,0 +1,19 @@
+{
+  "name": "tinymce-i18n",
+  "version": "1.0.0",
+  "description": "Language for tinymce.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/tinymce-i18n.git"
+  },
+  "keywords": [
+    "tinymce",
+    "Chinese"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/tinymce-i18n/issues"
+  },
+  "homepage": "https://github.com/afeiship/tinymce-i18n#readme"
+}
